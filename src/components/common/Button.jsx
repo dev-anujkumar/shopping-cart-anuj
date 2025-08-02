@@ -17,7 +17,6 @@ function Button({ onClick, children, className = '', disabled = false }) {
                 cursor: disabled ? 'not-allowed' : 'pointer',
                 transition: 'background-color 0.2s ease',
                 width: 'fit-content',
-                marginTop: 'auto',
                 opacity: disabled ? 0.6 : 1
             }}
             onMouseEnter={(e) => {

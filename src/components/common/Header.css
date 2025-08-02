@@ -6,6 +6,12 @@
   align-items: center;
   padding: 20px 40px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  height: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
 }
 
 .header h1 {

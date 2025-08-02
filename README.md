@@ -2,6 +2,10 @@
 
 A modern shopping cart application built with React, featuring real-time cart management and persistent state storage.
 
+## Live Application
+
+**Live URL**: [https://dev-anujkumar.github.io/shopping-cart-anuj/)
+
 ## Framework & Libraries
 
 ### Core Framework

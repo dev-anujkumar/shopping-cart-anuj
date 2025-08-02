@@ -17,7 +17,7 @@ function Header() {
 
     return (
         <header className="header">
-            <h1>Shopping Cart</h1>
+            <h3>Shopping Cart</h3>
             <div className="cart-icon-container">
                 <CartIcon />
                 {cartItemCount > 0 && <CartCountBadge count={cartItemCount} />}
